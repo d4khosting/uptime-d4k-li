@@ -4,6 +4,7 @@ repo: uptime-d4k-li
 sites:
   - name: D4K Link Shortener Service
     url: https://d4k.li
+    slug: d4k-li
     icon: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg
 
 status-website:
