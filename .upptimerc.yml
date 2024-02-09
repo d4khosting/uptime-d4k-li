@@ -7,6 +7,9 @@ sites:
     slug: d4k-li
     icon: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg
 
+assignees:
+  - pkiff
+
 status-website:
   cname: d4kli.d4kstatus.net
   favicon: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon-192x192.png
