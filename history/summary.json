@@ -4,19 +4,19 @@
     "url": "https://d4k.li",
     "icon": "https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon.svg",
     "slug": "d4k-li",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "93.94%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 428,
-    "timeDay": 273,
-    "timeWeek": 437,
-    "timeMonth": 434,
+    "timeDay": 265,
+    "timeWeek": 415,
+    "timeMonth": 428,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2025-08-20": 19
+      "2025-08-20": 87
     }
   }
 ]
