@@ -10,6 +10,9 @@ sites:
 assignees:
   - pkiff
 
+i18n:
+  locale: en-CA
+
 status-website:
   cname: d4kli.d4kstatus.net
   favicon: https://d4khosting.github.io/uptime-assets/images/d4k-hosting-favicon-192x192.png
